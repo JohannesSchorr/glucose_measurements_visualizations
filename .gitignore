@@ -1,0 +1,15 @@
+data/
+figures/
+
+# LaTeX-Files
+*.aux
+*.log
+*.tex
+*.pdf
+
+# Jupyter-Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# VS-Code
+.vscode/
